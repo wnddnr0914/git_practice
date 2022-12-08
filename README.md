@@ -1,8 +1,1 @@
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# test1
+ㅏㅇㅁ나언마ㅣ엄나ㅣㅇㅁㄴㅇ
