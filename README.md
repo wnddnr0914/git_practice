@@ -1,8 +1,11 @@
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# git_practice
-# test1
+프로젝트개요
+프로젝트명: 도로롱도로롱
+======================
+도로인식 모듈
+
+
+
+-데모나예시를보여주는이미지/영상  
+-사용한패키지와그version(install이필요할경우안내):opencv,math  
+-실행방법  
+-참고자료:Open Source SW 강의자료(12~14주차)
